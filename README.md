@@ -1,6 +1,6 @@
 # IMDBmovies
 
-IMDB Movies Data Analysis
+IMDB Movies Data Analysis -- Udacity Nanodegree Project
 
 Introduction
 
